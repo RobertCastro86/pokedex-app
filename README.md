@@ -4,7 +4,14 @@ Uma Single Page Application (SPA) para listagem e visualização de detalhes de 
 
 <div align="left">
   <a href="https://github.com/RobertCastro86">
-    <img height="180em" src="design/mobile-design.jpg"/>
+    <img height="300em" src="img/pokedex-branco.JPG"/>
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://github.com/RobertCastro86">
+    <img height="295em" src="img/pokedex-preto.JPG"/>
 </div>
 
 ## 🚀 Funcionalidades
@@ -56,8 +63,18 @@ npm start
 ## 🎨 Temas
 
 A aplicação possui dois temas:
-- **Claro**: Fundo branco com texto escuro
-- **Escuro**: Fundo escuro com texto claro
+- **Branco**: Fundo branco com texto escuro
+  <div align="left">
+  <a href="https://github.com/RobertCastro86">
+    <img height="190em" src="img/pokedex-branco.JPG"/>
+</div>
+
+- **Preto**: Fundo escuro com texto claro
+  <div align="left">
+  <a href="https://github.com/RobertCastro86">
+    <img height="185em" src="img/pokedex-preto.JPG"/>
+</div>
+
 
 O tema é alternado através do botão no cabeçalho da aplicação.
 
