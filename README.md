@@ -2,6 +2,11 @@
 
 Uma Single Page Application (SPA) para listagem e visualização de detalhes de Pokémons utilizando a PokéAPI.
 
+<div align="left">
+  <a href="https://github.com/RobertCastro86">
+    <img height="180em" src="design/mobile-design.jpg"/>
+</div>
+
 ## 🚀 Funcionalidades
 
 - **Listagem de Pokémons**: Exibe 10 pokémons iniciais com imagem e nome
