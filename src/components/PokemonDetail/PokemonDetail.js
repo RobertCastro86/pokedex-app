@@ -37,7 +37,7 @@ const PokemonDetail = ({ pokemon, onBack }) => {
             try {
               const abilityData = await api.getAbilityDetails(ability.ability.url);
               const description = abilityData.effect_entries.find(
-                (entry) => entry.language.name === 'en'
+                (entry) => entry.language.name === 'pt-BR'
               )?.effect || 'No description available';
 
               return {
